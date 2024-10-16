@@ -23,7 +23,6 @@
 ### Not the main ones
 <img width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />&nbsp;
 <img width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />&nbsp;
-<img width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />&nbsp;
 ## Statistics
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fusexo12&theme=gotham)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fusexo12&theme=gotham)
